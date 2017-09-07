@@ -5,7 +5,7 @@ This guide will walk you through deploying a Go [grpc][grpc] client on [Deis Wor
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-grpc-client.git
+$ git clone https://github.com/deisthree/example-grpc-client.git
 $ cd example-grpc-client
 $ deis create
 Creating Application... done, created breezy-playroom
@@ -98,11 +98,11 @@ Powered by Deis
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme
 [grpc]: http://www.grpc.io/docs/quickstart/go.html
-[grpcserver]: https://github.com/deis/example-grpc-server
-[serverinstall]: https://github.com/deis/example-grpc-server/#example-grpc-server
+[grpcserver]: https://github.com/deisthree/example-grpc-server
+[serverinstall]: https://github.com/deisthree/example-grpc-server/#example-grpc-server
